@@ -12,7 +12,7 @@ No entanto, é preciso adicionar uma biblioteca antes de executá-la.
 
 py
 
-from time import sleep 
+from time import sleep
 print("iniciando contagem regressiva...")
 sleep(0.5)
 for cont in range(10, -1, -1):
